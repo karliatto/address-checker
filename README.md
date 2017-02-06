@@ -32,5 +32,3 @@ For running in the browser:
 ```
 cordova run browser -- --port=8001 --target=Chromium
 ```
-
-```
