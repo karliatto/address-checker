@@ -16,7 +16,7 @@ Mobile app to scan QR code and show current bitcoin balance.
 
 ## How to run it
 
-```
+
 For testing on android device you have to install the plugin and with the device connected via USB on debugging mode  run the command below:
 
 ```
